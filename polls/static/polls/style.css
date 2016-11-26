@@ -1,0 +1,8 @@
+li a {
+	color: green;
+}
+
+body {
+	background: white url("images/IMG_2242.JPG") no-repeat right bottom;
+	background-size: cover; 
+}
